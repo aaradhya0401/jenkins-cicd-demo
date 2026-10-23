@@ -1,0 +1,12 @@
+
+{
+  "name": "jenkins-cicd-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js application demonstrating Jenkins CI/CD with Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  },
+  "license": "MIT"
+}
