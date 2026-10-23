@@ -60,3 +60,4 @@ http://localhost:3000/health
 
 The deployment stage runs the application locally on the Jenkins host.
 It is intended for learning and demonstration, not production deployment.
+Automatic Jenkins polling test
